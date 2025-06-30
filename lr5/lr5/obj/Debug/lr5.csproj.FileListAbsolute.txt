@@ -1,0 +1,9 @@
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\bin\Debug\lr5.exe.config
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\bin\Debug\lr5.exe
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\bin\Debug\lr5.pdb
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\obj\Debug\lr5.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\obj\Debug\lr5.Properties.Resources.resources
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\obj\Debug\lr5.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\obj\Debug\lr5.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\obj\Debug\lr5.exe
+C:\Users\maria\OneDrive\Робочий стіл\Маланюк\ЛР5\lr5\lr5\obj\Debug\lr5.pdb
